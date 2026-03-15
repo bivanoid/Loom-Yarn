@@ -1,0 +1,13 @@
+@import url(./global.css);
+
+.con-item {
+    width: 100%;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+}

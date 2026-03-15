@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: rgb(233, 229, 225);
+    --secondary: rgb(15, 7, 0);
+
+    --txtblack: black;
+    --txtlight: white;
+}
